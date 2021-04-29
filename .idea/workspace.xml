@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a74c324-5047-4cbb-bc76-eef52bc3d358" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rpipu0GeDTjYjSykQKLuzOZi93" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a74c324-5047-4cbb-bc76-eef52bc3d358" name="Default Changelist" comment="" />
+      <created>1619679620869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619679620869</updated>
+      <workItem from="1619679623429" duration="360000" />
+    </task>
+    <task id="LOCAL-00001" summary="Mise à jour du REPO">
+      <created>1619679814867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619679814867</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mise à jour du REPO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mise à jour du REPO" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="292" key="#Notifications" timestamp="1619679936475">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="449" y="292" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1619679936475" />
+    <state x="304" y="25" width="831" height="812" key="CommitChangelistDialog2" timestamp="1619679813217">
+      <screen x="0" y="25" width="1440" height="812" />
+    </state>
+    <state x="304" y="25" width="831" height="812" key="CommitChangelistDialog2/0.25.1440.812@0.25.1440.812" timestamp="1619679813217" />
+    <state x="320" y="205" key="Vcs.Push.Dialog.v2" timestamp="1619679827572">
+      <screen x="0" y="25" width="1440" height="812" />
+    </state>
+    <state x="320" y="200" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1619679758675" />
+    <state x="320" y="205" key="Vcs.Push.Dialog.v2/0.25.1440.812@0.25.1440.812" timestamp="1619679827572" />
+    <state x="521" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619679983973">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="521" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1619679983972" />
+    <state x="385" y="217" key="search.everywhere.popup" timestamp="1619679975070">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="217" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1619679975070" />
+    <state x="558" y="259" key="svn.repositoryBrowser" timestamp="1619679698752">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="558" y="259" key="svn.repositoryBrowser/0.0.1440.900@0.0.1440.900" timestamp="1619679698752" />
+    <state x="481" y="242" key="svn4idea.import.options" timestamp="1619679691285">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="481" y="242" key="svn4idea.import.options/0.0.1440.900@0.0.1440.900" timestamp="1619679691285" />
+  </component>
+</project>
